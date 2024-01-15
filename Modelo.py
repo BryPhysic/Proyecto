@@ -1,5 +1,6 @@
-def hola():
+def holacomoestas():
     print("hola")
+    print("como estas")
 
 
-hola()
+holacomoestas()
